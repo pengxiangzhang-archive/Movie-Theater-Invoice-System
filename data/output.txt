@@ -1,0 +1,85 @@
+===================================
+    EXECUTIVE  SUMMARY  REPORT
+===================================
+Invoice    Customer                       Type       Salesperson             Subtotal        Fees       Taxes    Discount       Total
+INV991     Department of CSE              [Student]  Jass, Spartino       $    584.85 $      6.75 $      0.00 $     46.79 $    544.81
+INV992     BERKSHIRE HATHAWAY INC.        [General]  Jass, Spartino       $ 186736.03 $      0.00 $  11152.92 $      0.00 $ 197888.95
+INV993     The University of Sydney       [Student]  Tony, Dalton         $   1902.91 $      6.75 $      0.00 $    152.23 $   1757.42
+=====================================================================================================================================
+Total                                                                     $ 189223.79 $     13.50 $  11152.92 $    199.02 $ 200191.18
+
+
+
+INDIVIDUAL INVOICE REPORT DETAILS
+===================================
+Invoice     INV991
+===================================
+Salesperson: Jass, Spartino
+Customer Info:
+  Department of CSE (F001)
+  [Student]
+  Koopmann Ann
+  256 Avery Hall
+  Lincoln NE 68588-0115 USA
+-----------------------------------
+Code     Item                                                          SubTotal       Tax     Total
+qqq1     Season Pass - 2019 Season Pass                               $  415.98 $    0.00 $  415.98
+         (2 units @ $199.99/unit)
+eee1     beef-100oz (2 units @ $88.88/unit with 5% off)               $  168.87 $    0.00 $  168.87
+                                                                      =============================
+SUB-TOTALS                                                            $  584.85 $    0.00 $  584.85
+DISCOUNT (8%  STUDENT)                                                                    $  -46.79
+ADDITIONAL FEE (Student)                                                                  $    6.75
+TOTAL                                                                                     $  544.81
+
+			Thank you for your purchase!
+
+===================================
+Invoice     INV992
+===================================
+Salesperson: Jass, Spartino
+Customer Info:
+  BERKSHIRE HATHAWAY INC. (F002)
+  [General]
+  Buffett Warren
+  3555 Farnam Street
+  Omaha NE 68131 USA
+-----------------------------------
+Code     Item                                                          SubTotal       Tax     Total
+eee1     beef-100oz (30 units @ $88.88/unit with 5% off)              $ 2533.08 $  101.32 $ 2634.40
+ttt1     Movie Ticket 'Applebee's' @ 123 mystreet                     $   43.00 $    2.58 $   45.58
+         2018-10-17T15:31(2 units @ $21.5/unit)
+www1     Candy-1g (31 units @ $0.99/unit with 5% off)                 $   29.16 $    1.17 $   30.32
+yyy1     Movie Ticket 'New Years Day' @ 1472 Broadway                 $184130.79 $11047.85 $195178.64
+         2019-01-01T00:00(99 units @ $1999.9/unit)
+                                                                      =============================
+SUB-TOTALS                                                            $186736.03 $11152.92 $197888.95
+TOTAL                                                                                     $197888.95
+
+			Thank you for your purchase!
+
+===================================
+Invoice     INV993
+===================================
+Salesperson: Tony, Dalton
+Customer Info:
+  The University of Sydney (F003)
+  [Student]
+  One Some
+  1 Western Ave
+  Sydney NSW 2006 AUS
+-----------------------------------
+Code     Item                                                          SubTotal       Tax     Total
+yyy1     Movie Ticket 'New Years Day' @ 1472 Broadway                 $ 1859.91 $    0.00 $ 1859.91
+         2019-01-01T00:00(1 units @ $1999.9/unit)
+ttt1     Movie Ticket 'Applebee's' @ 123 mystreet                     $   43.00 $    0.00 $   43.00
+         2018-10-17T15:31(2 units @ $21.5/unit)
+                                                                      =============================
+SUB-TOTALS                                                            $ 1902.91 $    0.00 $ 1902.91
+DISCOUNT (8%  STUDENT)                                                                    $ -152.23
+ADDITIONAL FEE (Student)                                                                  $    6.75
+TOTAL                                                                                     $ 1757.42
+
+			Thank you for your purchase!
+
+=====================================================================================================================================
